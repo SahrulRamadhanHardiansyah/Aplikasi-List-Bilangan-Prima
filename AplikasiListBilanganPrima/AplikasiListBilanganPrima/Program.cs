@@ -11,12 +11,12 @@ namespace AplikasiListBilanganPrima
         static void Main(string[] args)
         {
             Console.WriteLine("Aplikasi List Bilangan Prima");
-            Console.WriteLine("========================================================================================================================");
+            Console.WriteLine("\n========================================================================================================================");
             Console.WriteLine("Nama : Sahrul Ramadhan Hardiansyah");
             Console.WriteLine("Kelas : X - PPLG");
             Console.WriteLine("Absen : 31");
             Console.WriteLine("========================================================================================================================");
-            Console.WriteLine("List Bilangan Prima :");
+            Console.WriteLine("\nList Bilangan Prima :");
             
             
             for (int num = 2; num <= 1000; num++) //Melakukan loop dari dua hingga seribu
