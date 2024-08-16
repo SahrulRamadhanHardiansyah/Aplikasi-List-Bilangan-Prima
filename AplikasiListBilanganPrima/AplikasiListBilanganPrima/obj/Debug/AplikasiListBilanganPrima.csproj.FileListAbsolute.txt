@@ -1,0 +1,7 @@
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\bin\Debug\AplikasiListBilanganPrima.exe.config
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\bin\Debug\AplikasiListBilanganPrima.exe
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\bin\Debug\AplikasiListBilanganPrima.pdb
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\obj\Debug\AplikasiListBilanganPrima.csproj.AssemblyReference.cache
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\obj\Debug\AplikasiListBilanganPrima.csproj.CoreCompileInputs.cache
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\obj\Debug\AplikasiListBilanganPrima.exe
+C:\Users\Sahrul\source\repos\AplikasiListBilanganPrima\AplikasiListBilanganPrima\obj\Debug\AplikasiListBilanganPrima.pdb
